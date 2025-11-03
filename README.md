@@ -7,7 +7,7 @@
   <a href="mailto:ka3037@columbia.edu" aria-label="Email" title="Email">
     <img width="28" height="28" alt="Email" src="icons8-gmail.svg" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/kon-anagn" aria-label="LinkedIn" title="LinkedIn">
     <img width="28" height="28" alt="LinkedIn" src="linkedin-svgrepo-com.svg" />
   </a>
