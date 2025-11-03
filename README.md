@@ -12,7 +12,7 @@
 ### What I’m focused on
 - **Vang (E&S insurance marketplace):** Next.js 15, Tailwind v4, Prisma/Postgres, AI-assisted quoting. (personal project)
 - **CampAIgn (multi-agent B2B outreach):** Writer/Critique/Designer/Sender agents w/ LangChain + Firecrawl. (class project)
-- **Eulerion (casino CV):** YOLOv8 + OpenCV for chip/card/player tracking & game logic. (work project)
+- **Eulerion:** YOLOv8 + OpenCV for chip/card/player tracking & game logic. (work project)
 
 ### Tech I use
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@
 - 🚀 **Vang** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
 - 🧠 **CampAIgn** — Multi-agent outreach for B2B. *Research → Draft → Critique → Design → Send.*  
   <sub>[Repo](https://github.com/your-handle/campaign)</sub>
-- 👀 **Eulerion Vegas** — CV models for table games. *YOLOv8, trackers, event stream.*  
+- 👀 **Eulerion** — CV models for table games. *YOLOv8, trackers, event stream.*  
 
 
 ### Highlights
