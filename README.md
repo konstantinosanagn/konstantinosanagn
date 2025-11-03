@@ -33,10 +33,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Selected work
-- 🚀 **Vang** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
-- 🧠 **CampAIgn** — Multi-agent outreach for B2B. *Research → Draft → Critique → Design → Send.*  
+- 🤝 **Vang** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
+- 📈 **CampAIgn** — Multi-agent outreach for B2B. *Research → Draft → Critique → Design → Send.*  
   <sub>[Repo](https://github.com/konstantinosanagn/campaign-saas)</sub>
-- 👀 **Eulerion** — CV models for table games. *YOLOv8, trackers, event stream.*  
+- ♦️ **Eulerion** — CV models for table games. *YOLOv8, trackers, event stream.*  
+
 
 
 ### Highlights
