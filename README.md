@@ -32,8 +32,9 @@
 
 
 ### Highlights
-- Head TA — **Advanced Databases (COMS E6111)** at Columbia
-- Research — **Argument mining**, **link prediction**, **RL for econ**
+- AI/CV Engineering Intern @ Eulerion
+- Head TA — **Advanced Databases (COMS E6111)** @ Columbia
+- Research — **Argument mining**, **link prediction**, **RL for econ** @ URichmond
 - **Phi Beta Kappa**
 
 <details>
