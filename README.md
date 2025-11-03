@@ -3,9 +3,8 @@
   <h1>Konstantinos Anagnostopoulos</h1>
   <p><b>CS @ Columbia · Mathematical Economics @ Richmond</b></p>
   <p>Building AI products across insurance-tech, computer vision, and multi-agent systems.</p>
-  <a href="mailto:youremail@domain.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> ·
-  <a href="https://your-site.com">Website</a>
+  <a href="mailto:ka3037@columbia">Email</a> ·
+  <a href="https://www.linkedin.com/in/kon-anagn">LinkedIn</a> ·
 </div>
 
 ---
