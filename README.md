@@ -5,7 +5,7 @@
   <p>Building AI products across insurance-tech, computer vision, and multi-agent systems.</p>
 <p align="center">
   <a href="mailto:you@domain.com" aria-label="Email" title="Email">
-    <img width="28" height="28" alt="Email" src="gmail" />
+    <img width="28" height="28" alt="Email" src="icons8-gmail.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-handle" aria-label="LinkedIn" title="LinkedIn">
