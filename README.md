@@ -11,7 +11,7 @@
 ---
 
 ### What I’m focused on
-- **Andromeda (E&S insurance marketplace):** Next.js 15, Tailwind v4, Prisma/Postgres, AI-assisted quoting.
+- **Vang (E&S insurance marketplace):** Next.js 15, Tailwind v4, Prisma/Postgres, AI-assisted quoting.
 - **CampAIgn (multi-agent B2B outreach):** Writer/Critique/Designer/Sender agents w/ LangChain + Firecrawl.
 - **Eulerion Vegas (casino CV):** YOLOv8 + OpenCV for chip/card/player tracking & game logic.
 
@@ -26,7 +26,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Selected work
-- 🚀 **Andromeda** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
+- 🚀 **Vang** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
   <sub>[Repo](https://github.com/your-handle/andromeda) · [Demo](https://your-demo-link)</sub>
 - 🧠 **CampAIgn** — Multi-agent outreach for B2B. *Research → Draft → Critique → Design → Send.*  
   <sub>[Repo](https://github.com/your-handle/campaign) · [Demo](https://your-demo-link)</sub>
@@ -36,13 +36,13 @@
 ### Highlights
 - Head TA — **Advanced Databases (COMS E6111)** at Columbia
 - Research — **Argument mining**, **link prediction**, **RL for econ**
-- **Phi Beta Kappa**, GPA ~**3.8** (Columbia), **3.96** (Richmond)
+- **Phi Beta Kappa**
 
 <details>
   <summary>Now / Open to</summary>
 
-- 📌 Now: polishing Andromeda’s quoting flow; adding insurer integrations.  
-- 🤝 Open to: research collabs in market microstructure / prediction markets; SWE/ML internships.
+- 📌 Now: polishing Vang’s quoting flow; adding insurer integrations.  
+- 🤝 Open to: research collabs in market microstructure / prediction markets; SWE/ML internships; quant trading/research opportunities.
 </details>
 
 ---
