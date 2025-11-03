@@ -27,11 +27,10 @@
 
 ### Selected work
 - 🚀 **Vang** — AI-assisted E&S marketplace. *Form extraction, chat quoting, carrier routing.*  
-  <sub>[Repo](https://github.com/your-handle/andromeda) · [Demo](https://your-demo-link)</sub>
 - 🧠 **CampAIgn** — Multi-agent outreach for B2B. *Research → Draft → Critique → Design → Send.*  
-  <sub>[Repo](https://github.com/your-handle/campaign) · [Demo](https://your-demo-link)</sub>
+  <sub>[Repo](https://github.com/your-handle/campaign)</sub>
 - 👀 **Eulerion Vegas** — CV models for table games. *YOLOv8, trackers, event stream.*  
-  <sub>[Repo](https://github.com/your-handle/eulerion-vegas) · [Demo](https://your-demo-link)</sub>
+
 
 ### Highlights
 - Head TA — **Advanced Databases (COMS E6111)** at Columbia
