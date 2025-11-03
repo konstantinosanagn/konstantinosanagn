@@ -5,21 +5,25 @@
   <p>Building AI products across insurance-tech, computer vision, and multi-agent systems.</p>
 <p align="center">
   <!-- Email -->
-  <a href="mailto:you@domain.com" aria-label="Email">
-    <svg width="28" height="28" viewBox="0 0 24 24" fill="#EA4335" role="img">
-      <title>Email</title>
-      <path d="M12 13L2 6.76V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6.76L12 13zm10-9H2l10 6.24L22 4z"/>
+  <a href="mailto:you@domain.com" aria-label="Email" title="Email">
+    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 48 48" role="img">
+      <path fill="#4caf50" d="M45,16.2l-5,2.75l-5,4.75L35,40h7c1.657,0,3-1.343,3-3V16.2z"></path>
+      <path fill="#1e88e5" d="M3,16.2l3.614,1.71L13,23.7V40H6c-1.657,0-3-1.343-3-3V16.2z"></path>
+      <polygon fill="#e53935" points="35,11.2 24,19.45 13,11.2 12,17 13,23.7 24,31.95 35,23.7 36,17"></polygon>
+      <path fill="#c62828" d="M3,12.298V16.2l10,7.5V11.2L9.876,8.859C9.132,8.301,8.228,8,7.298,8h0C4.924,8,3,9.924,3,12.298z"></path>
+      <path fill="#fbc02d" d="M45,12.298V16.2l-10,7.5V11.2l3.124-2.341C38.868,8.301,39.772,8,40.702,8h0 C43.076,8,45,9.924,45,12.298z"></path>
     </svg>
   </a>
   &nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/your-handle" aria-label="LinkedIn">
-    <svg width="28" height="28" viewBox="0 0 24 24" fill="#0A66C2" role="img">
-      <title>LinkedIn</title>
-      <path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8h4V23h-4V8zm7.5 0h3.8v2.05h.06c.53-.95 1.84-1.95 3.79-1.95 4.05 0 4.8 2.67 4.8 6.15V23h-4v-5.3c0-1.26-.02-2.88-1.76-2.88-1.76 0-2.03 1.38-2.03 2.8V23h-4V8z"/>
+  <a href="https://www.linkedin.com/in/your-handle" aria-label="LinkedIn" title="LinkedIn">
+    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 48 48" role="img">
+      <path fill="#0288D1" d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z"></path>
+      <path fill="#FFF" d="M12 19H17V36H12zM14.485 17h-.028C12.965 17 12 15.888 12 14.499 12 13.08 12.995 12 14.514 12c1.521 0 2.458 1.08 2.486 2.499C17 15.887 16.035 17 14.485 17zM36 36h-5v-9.099c0-2.198-1.225-3.698-3.192-3.698-1.501 0-2.313 1.012-2.707 1.99C24.957 25.543 25 26.511 25 27v9h-5V19h5v2.616C25.721 20.5 26.85 19 29.738 19c3.578 0 6.261 2.25 6.261 7.274L36 36 36 36z"></path>
     </svg>
   </a>
 </p>
+
 
 </div>
 
