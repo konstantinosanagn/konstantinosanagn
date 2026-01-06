@@ -3,7 +3,7 @@
 # 👋 Hey, I’m Konstantinos
 
 **BEng Computer Science @ Columbia ’26 · BSc Mathematical Economics @ Richmond ’24**  
-**Incoming Software Engineer @ Tavily · AI/ML & full-stack engineer**
+
 
 📍 New York, NY  
 🔗 [LinkedIn](https://www.linkedin.com/in/kon-anagn/) · 📧 [Email](mailto:ka3037@columbia.edu) · 💻 [Prophecy live](https://prophecy-pred-markets.vercel.app)
@@ -124,7 +124,7 @@ A **modern SaaS** app for AI-powered B2B outreach campaigns with multi-agent wor
 
 - Polishing **Prophecy**’s experience (strategy presets, backtesting, more markets).
 - Iterating on **Vang**’s quoting and marketplace flows.
-- Prepping for **Tavily SWE** work (multi-agent systems, retrieval, infra).
+
 
 **Open to:**
 
