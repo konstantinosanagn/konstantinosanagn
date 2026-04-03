@@ -1,14 +1,7 @@
 
 <div align="center">
 
-```
- ██╗  ██╗ ██████╗ ███╗   ██╗███████╗████████╗ █████╗ ███╗   ██╗████████╗██╗███╗   ██╗ ██████╗ ███████╗
- ██║ ██╔╝██╔═══██╗████╗  ██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝██║████╗  ██║██╔═══██╗██╔════╝
- █████╔╝ ██║   ██║██╔██╗ ██║███████╗   ██║   ███████║██╔██╗ ██║   ██║   ██║██╔██╗ ██║██║   ██║███████╗
- ██╔═██╗ ██║   ██║██║╚██╗██║╚════██║   ██║   ██╔══██║██║╚██╗██║   ██║   ██║██║╚██╗██║██║   ██║╚════██║
- ██║  ██╗╚██████╔╝██║ ╚████║███████║   ██║   ██║  ██║██║ ╚████║   ██║   ██║██║ ╚████║╚██████╔╝███████║
- ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-```
+## Konstantinos Anagnostopoulos
 
 **Software Engineer** · Systems · Quant · ML
 
@@ -84,7 +77,7 @@ interests: distributed systems, market microstructure, algorithmic trading, stat
 
 | | Project | Description |
 |---|---|---|
-| `01` | [**prophecy-pred-markets**](https://github.com/konstantinosanagn/prophecy-pred-markets) | Multi-agent prediction markets analysis — FastAPI, LangGraph, MongoDB |
+| `01` | [**Prophily**](https://github.com/konstantinosanagn/prophecy-pred-markets) | Multi-agent prediction markets analysis — FastAPI, LangGraph, MongoDB |
 | `02` | [**arg_relation**](https://github.com/konstantinosanagn/arg_relation) | Argument structure extraction & link prediction — PyTorch, Hugging Face |
 | `03` | [**link-prediction**](https://github.com/konstantinosanagn/link-prediction) | Benchmark-driven link prediction experiments with LLMs |
 | `04` | [**campaign-saas**](https://github.com/konstantinosanagn/campaign-saas) | Full-stack SaaS platform — Rails, React, PostgreSQL |
@@ -92,13 +85,4 @@ interests: distributed systems, market microstructure, algorithmic trading, stat
 
 > *Additional work in algorithmic trading systems (prediction markets, backtesting, statistical validation, live paper trading) and market microstructure (exchange simulation, order book mechanics, Avellaneda-Stoikov market making) lives in private repositories.*
 
----
-
-### `$ cat ./stats.log`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=konstantinosanagn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
-
-</div>
 
