@@ -92,3 +92,14 @@ interests: distributed systems, market microstructure, algorithmic trading, stat
 
 > *Additional work in algorithmic trading systems (prediction markets, backtesting, statistical validation, live paper trading) and market microstructure (exchange simulation, order book mechanics, Avellaneda-Stoikov market making) lives in private repositories.*
 
+---
+
+### `$ cat ./stats.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=konstantinosanagn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=konstantinosanagn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+
+</div>
+
