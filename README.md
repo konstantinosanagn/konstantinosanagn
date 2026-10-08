@@ -21,7 +21,7 @@ role:      Software Engineer @ Nebius (NASDAQ: NBIS)
 education:
   - BEng Computer Science, Columbia University '26
   - BSc Mathematical Economics, University of Richmond '24
-interests: distributed systems, market microstructure, algorithmic trading, statistical validation
+interests: distributed systems, agentic dev tools, algorithmic trading, statistical validation
 ```
 
 ---
