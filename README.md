@@ -5,7 +5,7 @@
   <a href="mailto:ka3037@columbia.edu"><img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
-I like turning messy public data into something an agent can query — search, retrieval, and markets.
+I like turning messy public data into something an agent can query. Plus way more!
 
 Software engineer at [Nebius](https://nebius.com), on the agentic search team. BEng CS, Columbia '26.
 
