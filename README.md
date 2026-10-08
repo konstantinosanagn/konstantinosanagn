@@ -17,7 +17,7 @@
 ```yaml
 name:      Konstantinos Anagnostopoulos
 location:  New York, NY
-role:      Software Engineer @ Tavily (Nebius Group, NASDAQ: NBIS)
+role:      Software Engineer @ Nebius (NASDAQ: NBIS)
 education:
   - BEng Computer Science, Columbia University '26
   - BSc Mathematical Economics, University of Richmond '24
