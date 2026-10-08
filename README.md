@@ -58,8 +58,8 @@ interests: distributed systems, market microstructure, algorithmic trading, stat
 ### `$ cat ./work.log`
 
 ```
-[2026-present]  Software Engineer @ Tavily (NASDAQ: NBIS)
-                distributed Python services · search infrastructure · observability · SDK tooling
+[2026-present]  Software Engineer @ Nebius (NASDAQ: NBIS)
+                distributed Python services · agentic search infrastructure · new products · dev tooling
 
 [2025]          AI & Computer Vision Intern @ Eulerion Technologies
                 real-time detection pipelines · event-driven state tracking · PyTorch + OpenCV
