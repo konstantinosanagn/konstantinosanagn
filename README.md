@@ -1,5 +1,8 @@
 ### Konstantinos Anagnostopoulos
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kon-anagn/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=EA4335)](mailto:ka3037@columbia.edu)
+
 I like turning messy public data into something an agent can query — search, retrieval, and markets.
 
 Software engineer at [Nebius](https://nebius.com), on the agentic search team. BEng CS, Columbia '26.
@@ -20,5 +23,3 @@ Software engineer at [Nebius](https://nebius.com), on the agentic search team. B
 <!-- latest ends -->
 
 **Before:** NLP and RL research at the University of Richmond (2023–24); AI & computer-vision intern at Eulerion (2025).
-
-[LinkedIn](https://www.linkedin.com/in/kon-anagn/)
